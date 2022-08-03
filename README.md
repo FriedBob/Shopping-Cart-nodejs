@@ -19,12 +19,14 @@
 
 # 📚 STACKS
 
+<div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/lowDB-257546?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=Line&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazone_Ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+</div>
 
 &nbsp;&nbsp;
 
