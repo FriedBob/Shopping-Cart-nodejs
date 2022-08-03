@@ -70,7 +70,7 @@
 
 &nbsp;&nbsp;
 
-우선 프로젝트를 git clone 합니다
+우선 프로젝트를 `git clone` 합니다
 
 ```
 git clone ssh://git@khuhub.khu.ac.kr:12959/2015104185/ShoppingCart.git
@@ -94,9 +94,9 @@ https://developers.line.biz/en/
 
 ---
 
-API KEY값을 발급 받은 후 config/key.js 에서 const token 값을 발급받은 키 값으로 변경해 줍니다.
+API KEY값을 발급 받은 후 `config/key.js` 에서 const token 값을 발급받은 키 값으로 변경해 줍니다.
 
-이후 app.js의 domain을 localhost로 sslport를 사용자가 개방한 포트 번호로 설정해 줍니다
+이후 `app.js`의 _domain_을 localhost로 _sslport_를 사용자가 개방한 포트 번호로 설정해 줍니다
 
 완료했다면 보유한 리눅스 기반 AWS 서버에서 운영하거나 리눅스 운영체제에서 localhost 기반으로 코드를 직접 사용할 수 있습니다.
 
